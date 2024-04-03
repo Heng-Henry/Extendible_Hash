@@ -1,2 +1,2 @@
 # Database-Extendible-Hash-
-111下 資料庫系統概論 extendible hash
+Implement extendible hash to provide indexing in a database
